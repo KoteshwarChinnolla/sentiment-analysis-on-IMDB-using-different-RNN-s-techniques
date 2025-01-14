@@ -8,6 +8,10 @@ This repository provides a complete end-to-end project for sentiment analysis us
 - **Token Indexing**: Save word indexes for consistent tokenization during predictions.  
 - **RNN Model Creation**:  
   - Without embedding  
-  - With embedding  
+  - With embedding
+  - using Keras Tuner to select the best Hyperparameters
 - **Model Saving and Reuse**: Save trained models and use them for real-time predictions.  
 - **Tokenizer for Predictions**: Convert input text into token indexes for model inference.
+
+
+
