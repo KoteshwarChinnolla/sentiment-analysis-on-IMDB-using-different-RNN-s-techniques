@@ -14,4 +14,4 @@ This repository provides a complete end-to-end project for sentiment analysis us
 - **Tokenizer for Predictions**: Convert input text into token indexes for model inference.
 
 
-
+![RNN Image](https://github.com/KoteshwarChinnolla/sentiment-analysis-on-IMDB-using-different-RNN-s-techniques/blob/main/imgs/rnn_image_1.png)
